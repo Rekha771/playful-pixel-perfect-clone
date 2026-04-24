@@ -75,8 +75,8 @@ export default {
         },
       },
       fontFamily: {
-        sans: ['"Plus Jakarta Sans"', "system-ui", "sans-serif"],
-        display: ['"Fraunces"', "Georgia", "serif"],
+        sans: ['"Inter"', "system-ui", "sans-serif"],
+        display: ['"Space Grotesk"', '"Inter"', "system-ui", "sans-serif"],
         mono: ['"JetBrains Mono"', "monospace"],
       },
       backgroundImage: {
