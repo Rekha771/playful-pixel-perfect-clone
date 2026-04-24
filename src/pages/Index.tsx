@@ -10,6 +10,7 @@ import { FAQ } from "@/components/icgc/FAQ";
 import { CTABand } from "@/components/icgc/CTABand";
 import { Footer } from "@/components/icgc/Footer";
 import { SocialProofToast } from "@/components/icgc/SocialProofToast";
+import { Chatbot } from "@/components/icgc/Chatbot";
 
 const Index = () => {
   return (
@@ -28,6 +29,7 @@ const Index = () => {
       <CTABand />
       <Footer />
       <SocialProofToast />
+      <Chatbot />
     </main>
   );
 };
